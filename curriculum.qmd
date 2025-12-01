@@ -3,5 +3,5 @@ title: "Curiculum Vitae"
 ---
 
 ::: column-page
-<!-- ![](images/Heleen-Brüggen.png) -->
+![](images/CV HeleenBrüggen.pdf)
 :::
